@@ -1,0 +1,7 @@
+.logout-button {
+    -fx-background-color: #fa1f1f;
+}
+
+.logout-button:hover {
+    -fx-background-color: #ca0b0b;
+}

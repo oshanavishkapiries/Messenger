@@ -1,0 +1,10 @@
+.all-components {
+    -fx-font-family: "Poppins";
+    -fx-font-size: 12px;
+}
+
+.all-components:hover {
+    -fx-background-color: #f0f0f0;
+}
+
+

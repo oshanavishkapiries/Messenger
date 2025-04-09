@@ -4,5 +4,6 @@ module src {
 
 
     opens src.controllers to javafx.fxml;
+    opens src.controllers.components to javafx.fxml;
     exports src;
 }
